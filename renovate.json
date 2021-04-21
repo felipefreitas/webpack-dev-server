@@ -19,7 +19,7 @@
   "ignoreDeps": ["node"],
   "force": {
     "constraints": {
-      "node": ">= 12.x.x"
+      "node": ">= 12.13.0"
     }
   }
 }
